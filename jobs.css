@@ -1,8 +1,7 @@
 *{
     padding: 0;
     margin: 0;
-    font-family: sans-serif;
-}
+    font-family: popins;
 
 header{
     font-size: 15px;
@@ -573,4 +572,5 @@ option{
 .footer-copyright p:hover{
     color: white;
     cursor: pointer;
+
 }
